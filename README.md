@@ -9,6 +9,6 @@ I'm a passionate Full-Stack Software Engineer with over 2 years of experience bu
 ### 📫 Let's Connect!
 
 I'm always open to discussing new opportunities or collaborations. Feel free to reach out.
-[![Email](https://img.shields.io/badge/Email-sunil.khadka001%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunil.khadka001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sunil_khadka%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunil.khadka001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khadka-sunil)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sunilkkhadka)
